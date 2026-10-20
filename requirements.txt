@@ -1,0 +1,7 @@
+# Core dependencies:
+# The main desktop application runs exclusively on Python 3 standard library
+# (tkinter, sqlite3, hashlib, pathlib, logging, csv, dataclasses, argparse)
+# No external runtime pip dependencies are required for offline execution.
+
+# Developer and Testing dependencies:
+pytest>=8.0.0
